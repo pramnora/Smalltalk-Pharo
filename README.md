@@ -19,6 +19,8 @@ http://www.slideshare.net/pharoproject/pharo4-plans-and-dreams
 
 **PHARO VIDEO TUTORIALS**
 
+Series of videos/link plays ALL...  
+https://www.youtube.com/watch?v=Ol5ivaEATLQ&list=PLqbtQ7OkSta0ULYAd7Qdxof851ybh-_m_  
 
 
 **SMALLTALK/PHARO INFORMATION/DISCUSSION**    
