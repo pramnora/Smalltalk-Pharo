@@ -1,0 +1,2 @@
+Transcript show: 'Addition: '.
+Transcript show: 3+3.
