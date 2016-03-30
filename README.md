@@ -18,6 +18,7 @@ http://pharobyexample.org/versions/PBE1-2009-10...
 
 Wikipedia article/with external links…  
 https://en.wikipedia.org/wiki/Smalltalk  
+https://en.wikipedia.org/wiki/Pharo  
 
 Squeak or Pharo for the beginning Smalltalker?  
 http://stackoverflow.com/questions/8426981/sque...  
