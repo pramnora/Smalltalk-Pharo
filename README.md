@@ -8,11 +8,15 @@ Pharo, is a FREE to download/use Smalltalk programming language IDE/Integrated D
 http://www.pharo.org  
 http://www.pharo.org/download  
 
-**PHARO TUTORIALS** 
+**PHARO TEXT BASED TUTORIALS** 
 
 Pharo Tutorial/[.pdf] file…   
 http://pharobyexample.org/.  
 http://pharobyexample.org/versions/PBE1-2009-10...  
+
+**PHARO VIDEO TUTORIALS**
+
+
 
 **SMALLTALK/PHARO INFORMATION/DISCUSSION**    
 
