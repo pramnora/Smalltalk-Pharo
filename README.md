@@ -15,6 +15,7 @@ https://www.pharocloud.com
 Pharo Tutorial/[.pdf] file…   
 http://pharobyexample.org/.  
 http://pharobyexample.org/versions/PBE1-2009-10...  
+http://www.slideshare.net/pharoproject/pharo4-plans-and-dreams  
 
 **PHARO VIDEO TUTORIALS**
 
